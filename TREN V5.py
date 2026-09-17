@@ -75,7 +75,7 @@ else:
     yari_periyot = 0
 
 # --- ARAYÜZ ---
-sol_kolon, sag_kolon = st.columns()
+sol_kolon, sag_kolon = st.columns(2)
 
 with sol_kolon:
     st.header("👥 İttifak Bilgileri")
